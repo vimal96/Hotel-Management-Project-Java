@@ -97,7 +97,7 @@ class Hotel
         String name, contact, gender;
         String name2 = null, contact2 = null; 
         String gender2="";
-        System.out.print("\nEnter customer name: ");
+        System.out.print("\n welcome to hello world ");
         name = sc.next();
         System.out.print("Enter contact number: ");
         contact=sc.next();
